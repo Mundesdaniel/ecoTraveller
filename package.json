@@ -1,0 +1,19 @@
+{
+  "name": "firebase",
+  "version": "13.22.0",
+  "description": "jason file",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ecoTraveller"
+  },
+  "keywords": [
+    "a",
+    "website-for-Travellers"
+  ],
+  "author": "Mundes",
+  "license": "ISC"
+}
