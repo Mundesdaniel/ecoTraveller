@@ -5,7 +5,11 @@ name: Deploy to Firebase Hosting on merge
 on:
   push:
     branches:
+<<<<<<< HEAD
       - EcoTourismTraveller
+=======
+      - eco
+>>>>>>> 9e65e5a55c9b8f60785b25cdbe72af6d06c2292f
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
